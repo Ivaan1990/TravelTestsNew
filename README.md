@@ -1,3 +1,4 @@
-# Travel Tests New
+# Travel Tests
 Actual repositoriy
+
 Тестирование функционала по составлению заявки на страхование путешествующих на сайте rgs.ru
